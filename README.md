@@ -24,9 +24,9 @@ To style it, I reviewd one of my previous work to structure my codes, both HTML 
 - CSS custom properties
 - Flexbox
 - Media Queries
------ On Visual Studio Code.
+On Visual Studio Code.
 
 ## Author
 
-- Website - [Larissa Silva](https://portfoliolarissa.netlify.app/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Larissa Silva Design Portfolio](https://portfoliolarissa.netlify.app/)
+- Frontend Mentor - [@LaSilvaDev](https://www.frontendmentor.io/profile/ms-LaDev)
